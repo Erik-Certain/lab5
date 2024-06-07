@@ -52,7 +52,5 @@ using System;
             {
                 Console.WriteLine(ex.Message);
             }
-
-            Console.ReadKey();
         }
     }
